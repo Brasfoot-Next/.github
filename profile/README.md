@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/logo.png" width="160" alt="Brasfoot 2027" />
+  <img src="https://raw.githubusercontent.com/Brasfoot-Next/.github/main/profile/logo.png" width="220" alt="Brasfoot 2027" />
 </p>
 
 # Brasfoot 2027
